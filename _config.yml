@@ -10,11 +10,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: # add banner title
-banner-desc: # add banner description
+banner-title: BB Realm # add banner title
+banner-desc: An easy way to excel in Bingo Blitz # add banner description
 
 # Author settings
-author-pic: face.jpg # your photo
+author-pic: credits.png # your photo
 author-name: Celente # your name
 about-author: Regular BB Player. # about author
 email: celentebb@gmail.com # your email
