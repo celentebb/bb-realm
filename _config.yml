@@ -9,7 +9,7 @@ baseurl: "/bb-realm" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
+video: # add banner video. Add your video file to the folder video
 banner-title: BB Realm # add banner title
 banner-desc: An easy way to excel in Bingo Blitz # add banner description
 
