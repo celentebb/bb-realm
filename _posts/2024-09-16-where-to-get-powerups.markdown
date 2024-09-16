@@ -9,4 +9,4 @@ tag: [PowerUps]
 
 > The table below shows each Bonus Room along with the Power Ups you can get there. <cite>- Enjoy</cite>
 
-<img src="../assets/img/mini-games-power-ups.png" width="900" height="500">
+<img src="../assets/img/mini-games-power-ups.png" width="860" height="460">
