@@ -9,4 +9,4 @@ tag: [Travel, Blogging, Mountains]
 
 > The table below shows each Bonus Room along with the Power Ups you can get there. <cite>- Enjoy</cite>
 
-![Mini Game's Power Ups table](./assets/img/mini-games-power-ups.png "Table: Mini Game's power ups")
+![Mini Game's Power Ups table](../assets/img/mini-games-power-ups.png "Table: Mini Game's power ups")
