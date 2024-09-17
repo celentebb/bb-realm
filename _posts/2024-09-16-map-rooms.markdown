@@ -1,0 +1,49 @@
+---
+layout: post
+title: "Playing in Map Rooms"
+img: map-rooms.png # Add image post (optional)
+date: 2024-09-16 18:00:00 +0300
+description: Know the map rooms and learn a little. # Add post description (optional)
+tag: [MapRoom]
+---
+
+> The map room is the main game, where you land when the you open the game. <cite>- Go for the crown.</cite>
+
+There are plenty websites that explains the basics of the game. So here we will focus mainly in tips and strategies.
+I have to mention though, i will post most of the collectibles of the game (by room).
+
+<img src="../assets/img/bb-the-game.png" width="820" height="420">
+
+## VERY IMPORTANT
+
+- All tips and recommendations are for playing with *4 cards* and *Classic boost*
+
+## What do you get in a map room?
+
+- Daub Alerts (Deprecated 2024, no longer in use)
+- Daily Credits (When you complete a milestone)
+- Rare Power Ups (Triple Daubs, Double Daubs, Wild Daub, when you complete the first milestone in each island)
+
+## How longer does it takes to complete a map room?
+
+- You can complete 1 room between 1 hour and 3 days. (Playing 3 - 6 hours a day).
+- The harder rooms i've been took me 3 days to complete (but jumping between Map and Seasonal Games).
+- Note: there's a lot of people complaining to be "trapped" in a room for weeks. That has never happened to me. Never.
+
+## What are milestones?
+
+- You reach a milestone when you complete certain amount of unique collectibles in map rooms.
+
+1. Milestone 1: 40 Power Ups (10 triple daub, 10 double daub, 10 wild, and another that i dont know)
+2. Milestone 2: 800 credits.
+3. Milestone 3: 55 daily credits.
+
+## When is it necessary to play on the map?
+
+- When you need any of the prizes that you can get from the milestones.
+
+## Tips?
+
+- If you are not plawing for a red tab, if you don't use double daubs nor chargers, you'll get some in the chests.
+- When you're short on power ups is better to play map rooms or collect power ups on the mini games (see Power Ups post).
+- You can trade HTG (hard to get items) for food or seasonal items in rooms that you already completed.
