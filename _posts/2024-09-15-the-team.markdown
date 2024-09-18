@@ -9,10 +9,10 @@ tag: [Team]
 
 > Profile data of the team. <cite>- Let's get to know each other.</cite>
 
-Senior Player: @Dawn.
-Highest Level: @Melody.
-Map Room Completed: @Dawn, @Eve.
-More Accounts: @Tracy$$$.
+Senior Player: @Dawn.  
+Highest Level: @Melody.  
+Map Room Completed: @Dawn, @Eve.  
+More Accounts: @Tracy$$$.  
 
 <img src="../assets/img/the-team01.png" width="820" height="420">
 
