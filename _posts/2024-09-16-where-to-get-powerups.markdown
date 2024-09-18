@@ -9,6 +9,9 @@ tag: [PowerUps]
 
 > The table below shows each Bonus Room along with the Power Ups you can get there. <cite>- Enjoy</cite>
 
+How to use the table: for example, if you are low on credits and you need chargers, you can go to "Blitzy Daub Home" and play the mini game for 5000 coins.
+[Note: you only can play mini games while you wait for the game to start.]
+
 <img src="../assets/img/mini-games-power-ups.png" width="820" height="420">
 
 ***
