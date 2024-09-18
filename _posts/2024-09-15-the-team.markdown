@@ -1,0 +1,21 @@
+---
+layout: post
+title: "The Team"
+img: bg_contact-2.jpg # Add image post (optional)
+date: 2024-09-15 12:00:00 +0300
+description: Insights of the team (Work in progress). # Add post description (optional)
+tag: [Team]
+---
+
+> Profile data of the team. <cite>- Let's get to know each other.</cite>
+
+Senior Player: @Dawn.
+Highest Level: @Melody.
+Map Room Completed: @Dawn, @Eve.
+More Accounts: @Tracy$$$.
+
+<img src="../assets/img/the-team01.png" width="820" height="420">
+
+> Level of completion in Bonus Games. <cite>- We have work to do.</cite>
+
+<img src="../assets/img/the-team02.png" width="820" height="420">
