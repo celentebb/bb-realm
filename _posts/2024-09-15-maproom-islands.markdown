@@ -11,11 +11,11 @@ tag: [Islands]
 
 ### Very Important #1: Don't forget MILESTONES, when you reach a milestone, you get a reward!
 
-<img src="../assets/img/rewards-for-milestones.png" width="820" height="420">
+<img src="../assets/img/rewards-for-milestones.png" width="350" height="259" class="center">
 
 ### Very Important #2: If you need to know which rooms are in each island, here is a link to Fandom which I contribute in the making.
 
-[Link to all rooms in map room:](https://bingoblitz.fandom.com/wiki/Bingo_Rooms)
+<a href="https://bingoblitz.fandom.com/wiki/Bingo_Rooms" target="_blank">Link to all rooms in map room.</a>
 
 So, since the islands has no names, they're just numbered (I only have pictures until the where i am).
 

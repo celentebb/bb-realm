@@ -4713,6 +4713,13 @@ cite {
           animation-delay: 0.75s;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 @-webkit-keyframes fadeInDown {
   from {
     opacity: 0;
