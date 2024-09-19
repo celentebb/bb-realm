@@ -19,51 +19,51 @@ How to use the table: for example, if you are low on credits and you need charge
 
 > Aqua Moxie
 
-<img src="../assets/img/PU-Aquamoxie-10k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Aquamoxie-10k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Aquamoxie-20k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Aquamoxie-20k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Aquamoxie-50k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Aquamoxie-50k.png" width="820" height="420">
 
 
 > Blackout Lounge
 
-<img src="../assets/img/PU-Blackout Lounge-2b.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Blackout Lounge-2b.png" width="820" height="420">
 
-<img src="../assets/img/PU-Blackout Lounge-300.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Blackout Lounge-300.png" width="820" height="420">
 
 > Blitzy Daub Home
 
-<img src="../assets/img/PU-Blitzy Daub Home-5k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Blitzy Daub Home-5k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Blitzy Daub Home-10k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Blitzy Daub Home-10k.png" width="820" height="420">
 
 > Coaster City
 
-<img src="../assets/img/PU-Coaster City-5k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Coaster City-5k.png" width="820" height="420">
 
 > Free Daily Tournament
 
-<img src="../assets/img/PU-Free Daily Tournament-5b.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Free Daily Tournament-5b.png" width="820" height="420">
 
-<img src="../assets/img/PU-Free Daily Tournament-10b.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Free Daily Tournament-10b.png" width="820" height="420">
 
 > Inspector Groovy
 
-<img src="../assets/img/PU-Inspector Groovy-10k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Inspector Groovy-10k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Inspector Groovy-20k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Inspector Groovy-20k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Inspector Groovy-50k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Inspector Groovy-50k.png" width="820" height="420">
 
 > Plunder Bay
 
-<img src="../assets/img/PU-Plunder Bay-5k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Plunder Bay-5k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Plunder Bay-10b.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Plunder Bay-10b.png" width="820" height="420">
 
 > Treasure Cove
 
-<img src="../assets/img/PU-Treasure Cove-5k.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Treasure Cove-5k.png" width="820" height="420">
 
-<img src="../assets/img/PU-Treasure Cove-10b.png" width="820" height="420">
+<img src="../assets/img/powerups/PU-Treasure Cove-10b.png" width="820" height="420">
