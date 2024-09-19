@@ -34,7 +34,7 @@ I have to mention though, i will post most of the collectibles of the game (by r
 
 - You reach a milestone when you complete certain amount of unique collectibles in map rooms.
 
-<img src="../assets/img/rewards-for-milestones.png" width="820" height="420">
+<img src="../assets/img/rewards-for-milestones.png" width="350" height="259" class="center">
 
 1. Milestone 1: 40 Power Ups (10 triple daub, 10 double daub, 10 wild, and another that i dont know)
 2. Milestone 2: 800 credits.

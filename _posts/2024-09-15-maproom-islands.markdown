@@ -15,7 +15,7 @@ tag: [Islands]
 
 ### Very Important #2: If you need to know which rooms are in each island, here is a link to Fandom which I contribute in the making.
 
-<a href="https://bingoblitz.fandom.com/wiki/Bingo_Rooms" target="_blank">Link to all rooms in map room.</a>
+<a href="https://bingoblitz.fandom.com/wiki/Bingo_Rooms" target="_blank">Link to all rooms in map room.</a> (Opens in new tab or window)
 
 So, since the islands has no names, they're just numbered (I only have pictures until the where i am).
 
