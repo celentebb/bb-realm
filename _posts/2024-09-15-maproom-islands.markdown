@@ -135,3 +135,36 @@ So, since the islands has no names, they're just numbered (I only have pictures 
 
 #### Island #39
 <img src="../assets/img/islands/Isla039.png" width="820" height="420">
+
+#### Island #40
+<img src="../assets/img/islands/Isla040.png" width="820" height="420">
+
+#### Island #41
+<img src="../assets/img/islands/Isla041.png" width="820" height="420">
+
+#### Island #42
+<img src="../assets/img/islands/Isla042.png" width="820" height="420">
+
+#### Island #43
+<img src="../assets/img/islands/Isla043.png" width="820" height="420">
+
+#### Island #44
+<img src="../assets/img/islands/Isla044.png" width="820" height="420">
+
+#### Island #45
+<img src="../assets/img/islands/Isla045.png" width="820" height="420">
+
+#### Island #46
+<img src="../assets/img/islands/Isla046.png" width="820" height="420">
+
+#### Island #47
+<img src="../assets/img/islands/Isla047.png" width="820" height="420">
+
+#### Island #48
+<img src="../assets/img/islands/Isla048.png" width="820" height="420">
+
+#### Island #49
+<img src="../assets/img/islands/Isla049.png" width="820" height="420">
+
+#### Island #50 (This where i am now)
+<img src="../assets/img/islands/Isla050.png" width="820" height="420">
