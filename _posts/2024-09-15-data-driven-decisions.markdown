@@ -11,8 +11,8 @@ For each goal you have in the game, you have to play a different kind of game. F
 
 > This table shows you, how much it costs 4-cards in each type of game, and in each boost.  
 
-<img src="../assets/img/boost/boost-table-01.png" width="820" height="420">
+<img src="../assets/img/boost/boost-table-01.png" width="620" height="420">
 
 > This table shows the same, but gouped by cost, so you can decide which suits you best.
 
-<img src="../assets/img/boost/boost-table-02.png" width="820" height="420">
+<img src="../assets/img/boost/boost-table-02.png" width="820" height="520">
